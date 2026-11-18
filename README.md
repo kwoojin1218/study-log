@@ -1,2 +1,2 @@
 # study-log
-Java, C
+Java, C, Python
